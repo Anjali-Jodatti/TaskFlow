@@ -13,7 +13,6 @@ TaskFlow is a web-based task management application built to help users organise
 - [Run Locally](#run-locally)
 - [Firebase Configuration](#firebase-configuration)
 - [Testing Checklist](#testing-checklist)
-- [Documentation and Screenshots](#documentation-and-screenshots)
 - [Future Improvements](#future-improvements)
 
 ## Project Overview
