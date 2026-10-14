@@ -171,28 +171,6 @@ TaskFlow uses Firebase Authentication and Cloud Firestore.
 - [ ] Check the interface in light and dark appearance modes, if enabled.
 - [ ] Confirm Firestore access rules prevent access to another user's tasks.
 
-## Documentation and Screenshots
-
-Add the full technical documentation to the repository, for example:
-
-```text
-docs/
-├── TaskFlow_Technical_Documentation.pdf
-└── TaskFlow_Technical_Documentation.docx
-```
-
-Once these files are uploaded, add links here:
-
-- [Technical Documentation (PDF)](docs/TaskFlow_Technical_Documentation.pdf)
-- [Technical Documentation (Word)](docs/TaskFlow_Technical_Documentation.docx)
-
-You can also create a `screenshots/` folder and add screenshots of the login page, dashboard, task form, task views, profile, and settings. Example Markdown syntax:
-
-```markdown
-![TaskFlow Dashboard](screenshots/dashboard.png)
-```
-
-Replace the example image path with the actual screenshot filename.
 
 ## Challenges and Lessons Learned
 
@@ -216,9 +194,9 @@ During development, key implementation areas included:
 
 ## Author
 
-**Name:** [Your Name]  
-**Course / Institution:** [Optional]  
-**GitHub:** [Your GitHub Profile URL]
+**Name:** [Anjali Jodatti]  
+**Course / Institution:** [Full Stack Developer Intern]  
+**GitHub:** [https://github.com/Anjali-Jodatti/TaskFlow.git]
 
 ---
 
